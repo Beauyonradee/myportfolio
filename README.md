@@ -1,7 +1,7 @@
 # My portfolio
 
 - [Gift Delivery Apps Project](https://github.com/Beauyonradee/giftdeliveryapps.git)
-- [Property Lists (IOS)](https://github.com/Beauyonradee/propertylist-iOS.git)
+- [Property Lists (IOS)](https://github.com/Beauyonradee/property-apps.git)
 
 
 
