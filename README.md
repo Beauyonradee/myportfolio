@@ -3,7 +3,10 @@
 - [Gift Delivery Apps Project](https://github.com/Beauyonradee/giftdeliveryapps.git)
 - [Property Lists (IOS)](https://github.com/Beauyonradee/property-apps.git)
 
-
+## Figma UI Designs
+- [Fashion Retail app](https://www.figma.com/proto/qVzSI5YpuH6OI5yOvxPrkp/Yonn?node-id=406-47&p=f&t=CuQpNWekLetLIVB5-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A13&show-proto-sidebar=1)*A simple mobile UI for purchasing fashion items*
+- [Food Web App UI (Practice Design)](https://www.figma.com/proto/8eLeHmtp6TdpdTBUFy3QxJ/Food-web-app-design-practise?t=agbLfZI3jQjxGwBW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=3-2&starting-point-node-id=3%3A2)*Responsive web layout for a food delivery platform*
+- [Cactus Plant Web UI (Concept)](https://www.figma.com/proto/u17Ox7EwZTt1F9Cfiku4xp/Cactus-web-application?t=d1uunRXJ5thJpUjs-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=2-2&starting-point-node-id=2%3A2&show-proto-sidebar=1) *E-commerce interface for a plant store concept*
 
 ##  About Me
 
