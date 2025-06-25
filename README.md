@@ -12,6 +12,11 @@
 - [Cactus Plant Web UI (Concept)](https://www.figma.com/proto/u17Ox7EwZTt1F9Cfiku4xp/Cactus-web-application?t=d1uunRXJ5thJpUjs-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=2-2&starting-point-node-id=2%3A2&show-proto-sidebar=1)</br>
 *E-commerce interface for a plant store concept*
 
+## Front-end Development using HTML, CSS, Tailwind CSS
+- [Blog Preview Card](https://github.com/Beauyonradee/blog-preview.git)
+- [QR Code](https://github.com/Beauyonradee/qr-code-frontend.git)
+- [Social Links Profile](https://github.com/Beauyonradee/social-profile.git)
+
 ##  About Me
 
 Developed by **Yonradee Limsawat**  
