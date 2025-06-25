@@ -4,7 +4,7 @@
 I’m currently pursuing a Master of IT, majoring in Mobile Web Apps, with hands-on experience in iOS, Android, and web development.
 I'm actively seeking an unpaid internship opportunity in Australia to strengthen my technical skills and gain real-world experience in mobile development.
 
-I bring strong communication, time management, and problem-solving skills to every project I work on — and I'm eager to contribute and learn in a collaborative environment.
+I bring strong communication, time management, and problem-solving skills to every project I work on and I'm eager to contribute and learn in a collaborative environment.
 
 - [Gift Delivery Apps Project](https://github.com/Beauyonradee/giftdeliveryapps.git)
 - [Property Lists (IOS)](https://github.com/Beauyonradee/property-apps.git)
